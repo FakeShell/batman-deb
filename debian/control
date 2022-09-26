@@ -1,23 +1,17 @@
-Source: fakedak
+Source: batman
 Maintainer: Bardia Moshiri
 Section: metapackages
 Priority: optional
 Build-Depends: debhelper (>= 10)
 Standards-Version: 4.5.0.3
-Vcs-Browser: https://fakedak.co
-Vcs-Git: https://fakedak.co
+Vcs-Browser: https://github.com/FakeShell/batman
+Vcs-Git: https://github.com/FakeShell/batman.git
 
-Package: fakedak
+Package: batman
 Architecture: all
 Depends: ${misc:Depends},
-         python3,
-	 python3-gevent,
-	 python3-bottle,
-	 python3-future,
-	 python3-gevent-websocket,
-	 python3-greenlet,
-	 python3-pyparsing,
-	 python3-whichcraft,
-	 python3-zope.event,
-Description: fakedak
- Fakedak radio app
+         bash,
+         wlr-randr,
+         yad,
+Description: batman
+ A battery management program and service for linux phones

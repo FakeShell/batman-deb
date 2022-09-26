@@ -1,0 +1,6 @@
+batman (1.0.0) main; urgency=medium
+
+  * create deb package
+
+ -- fakeshell <fakeshell@bardia.tech>  Fri, 26 Sep 2022 10:41:42 +0500
+

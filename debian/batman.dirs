@@ -2,3 +2,6 @@
 /var/lib/batman
 /usr/share/applications
 /usr/share/icons
+/usr/share/keyrings
+/etc/apt/sources.list.d/
+

@@ -1,6 +1,6 @@
-batman (1.0.1) main; urgency=medium
+batman (1.0.2) main; urgency=medium
 
-  * add apt repo to the deb package
+  * add CHARGESAVE to batman and batman-gui
 
- -- fakeshell <fakeshell@bardia.tech>  Tue, 27 Sep 2022 21:29:42 +0330
+ -- fakeshell <fakeshell@bardia.tech>  Tue, 11 Oct 2022 08:38:42 +0330
 

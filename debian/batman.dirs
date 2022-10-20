@@ -4,4 +4,4 @@
 /usr/share/icons
 /usr/share/keyrings
 /etc/apt/sources.list.d/
-
+/etc/init.d/

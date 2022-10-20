@@ -1,6 +1,6 @@
-batman (1.0.3) main; urgency=medium
+batman (1.0.4) main; urgency=medium
 
-  * add kwin support
+  * add init script
 
- -- fakeshell <fakeshell@bardia.tech>  Tue, 13 Oct 2022 03:36:32 +0330
+ -- fakeshell <fakeshell@bardia.tech>  Thu, 20 Oct 2022 00:43:32 +0330
 

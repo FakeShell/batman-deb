@@ -1,6 +1,5 @@
-batman (1.0.4) main; urgency=medium
+batman (1.0.5) main; urgency=medium
 
-  * add init script
+  * fix powersave and systemd service
 
- -- fakeshell <fakeshell@bardia.tech>  Thu, 20 Oct 2022 00:43:32 +0330
-
+ -- fakeshell <fakeshell@bardia.tech>  Sat, 5 Nov 2022 02:03:32 +0330

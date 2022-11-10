@@ -1,5 +1,5 @@
-batman (1.0.5) main; urgency=medium
+batman (1.0.6) main; urgency=medium
 
-  * fix powersave and systemd service
+  * improve batman-gui and change default value of cpu usage
 
- -- fakeshell <fakeshell@bardia.tech>  Sat, 5 Nov 2022 02:03:32 +0330
+ -- fakeshell <fakeshell@bardia.tech>  Fri, 10 Nov 2022 01:44:12 +0330
